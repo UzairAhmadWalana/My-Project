@@ -1,5 +1,6 @@
-Flask==3.0.0
-SQLAlchemy==2.0.25
-Flask-RESTful==0.3.9
-pandas==2.1.1
-scikit-learn==2.3.1
+fastapi
+uvicorn
+flask
+flask-restful
+sqlalchemy
+pandas
